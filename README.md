@@ -9,7 +9,6 @@
       reservations for car rentals.</li>
   <li>Solution :  The database can be used by rental companies to track client information and manage their fleet.</li>
   <li>Access :A  window application will be used to access the Rent a Car Database. While rental firm staff will have access to the database through a different application. To do      the booking,  manage users,  manage car details, rent information and return information.</li>
-  
 </ul>
 
 # Business Requirement
