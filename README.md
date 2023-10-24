@@ -24,7 +24,7 @@
 # Tech Stack
 <ul>
   <li>C# (Front-End & Back-End)</li>
-  <li>MYSQL (Database)</li
+  <li>MYSQL (Database)</li>
 </ul>
 
 # Benefits
@@ -34,7 +34,7 @@
 </ul>
 
 # Git-Link
-<ul><li>https://github.com/ar-ishita/Car-Management-System-Project.git)https://github.com/ar-ishita/Car-Management-System-Project.git</li</ul>
+<ul><li>https://github.com/ar-ishita/Car-Management-System-Project.git</li></ul>
 
 
 
